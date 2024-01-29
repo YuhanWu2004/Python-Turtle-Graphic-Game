@@ -13,6 +13,6 @@ When the turtle reaches the edge of the game space, it will automatically turn a
 
 Once the turtle player hits a red target, the target will disappear and the score will increase by 1.
 
-In order to gain points, you want to let the turtle player hit as many red targets, which will be generated randomly.
+In order to gain points, you want to let the turtle player hit as many red targets as you can.
 
 This is a fun game that can be played forever because every time you tackle a target, a new one will be randomly generated.
