@@ -1,5 +1,5 @@
 # Python-turtle-graphic game
-This game is an application using the Python turtle module. The turtle module helps us to create 2D graphics in a simple and useful way for game-making.
+This game is an application of the Python turtle module. The turtle module helps us to create 2D graphics in a simple and useful way for game-making.
 
 Once you run the game, a game space will be drawn on the window and a pink turtle player and 6 red targets will show up inside the game space.
 
