@@ -7,7 +7,7 @@ This is a game where you control a turtle player in a game space to tackle the r
 
 Using the left and right arrow keys, you can make the turtle turn left or right 30 degrees every time you press.
 
-Using the up arrow key can increase the speed at which the turtle moves.
+Using the up arrow key, you can increase the speed at which the turtle moves.
 
 When the turtle reaches the edge of the game space, it will automatically turn around and change to the opposite direction. 
 
